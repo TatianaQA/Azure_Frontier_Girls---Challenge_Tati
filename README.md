@@ -1,9 +1,24 @@
-# Azure_Frontier_Girls--Challenge_Tati
-AzureFrontierGirls-AI-Challenge
+🚀 Desafio - Agente de Transcrição e Estruturação com AI Foundry
 
-# Azure Frontier Girls - Challenge Tati 🚀
+Este projeto foi desenvolvido como parte do desafio Build Your First Copilot do curso Microsoft AI Foundry, com o objetivo de criar um agente inteligente capaz de transformar vídeos em conhecimento estruturado.
 
-Este repositório contém a entrega do desafio **"Build Your First Copilot"** proposto no curso da Microsoft AI Foundry.
+💡 Ideia principal
+
+A proposta nasceu da necessidade de aproveitar conteúdos ricos (como vídeos de aulas, treinamentos e mentorias) para gerar transcrições limpas, organizadas e úteis — tudo isso com mínima intervenção manual. Com isso, o agente que criei:
+
+- Recebe um link do YouTube como entrada
+
+- Extrai automaticamente a transcrição do vídeo (mesmo que seja gerada automática pelo YouTube)
+
+- Remove ruídos como timestamps e quebras desnecessárias
+
+- Organiza o conteúdo em estrutura JSON por tópicos
+
+- Gera um resumo e sugestões de perguntas frequentes (FAQ)
+
+- Prepara todo o conteúdo para ser reutilizado por outros agentes dentro do Foundry
+
+💬 Isso permite, por exemplo, criar assistentes personalizados que respondem sobre o vídeo sem que o usuário precise assisti-lo. Ideal para capacitações, onboarding de novos membros ou análise de conteúdos extensos.
 
 ## 🎯 Objetivo
 
